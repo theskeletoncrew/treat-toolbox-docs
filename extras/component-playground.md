@@ -1,0 +1,3 @@
+# Component Playground
+
+The Component Playground, accessible from any composite set, allows you to experiment with combining various [Trait Values](../components/trait-values.md). This might be useful to discover potential [Conflicts](../components/conflicts.md), or simply to see what a particular configuration would look like.&#x20;
