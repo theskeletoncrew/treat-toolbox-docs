@@ -17,7 +17,7 @@
 
 ## Extras
 
-* [Component Playground](extras/component-playground.md)
+* [Composite Playground](extras/component-playground.md)
 
 ## Advanced Features
 
