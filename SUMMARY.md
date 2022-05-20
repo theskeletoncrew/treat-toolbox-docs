@@ -22,3 +22,7 @@
 ## Advanced Features
 
 * [Metadata Templating](advanced-features/metadata-templating.md)
+
+## Troubleshooting
+
+* [Images under 20KB](troubleshooting/images-under-20kb.md)
